@@ -1,0 +1,106 @@
+body{
+    background-image: url(images/background.jpg);
+}
+.navbar{
+    max-width:1536px;
+    max-height:100px;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    left:0;
+    top:0;
+    z-index: 2;
+    width:100%
+}
+.news p{
+    margin: 20px;
+}
+.propos p{
+    margin: 20px;
+}
+.achat p{
+    margin: 20px;
+}
+.twitter img{
+    max-width: 13%;
+    position: relative;
+    left: 915px;
+}
+.instagram img{
+    max-width: 6%;
+    position: relative;
+    left: 830px;
+}
+.youtube img{
+    max-width: 25%;
+    position: relative;
+    left: 435px;
+}
+.linkedin img{
+    max-width: 9%;
+    position: relative;
+    left: 410px;
+    bottom: 2px;
+}
+.facebook img{
+    max-width: 22%;
+    position: relative;
+    left: 150px;
+}
+.titre h1{
+    position: relative;
+    top: 80px;
+    left: 600px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.img1 img{
+    max-width: 30%;
+    position: relative;
+    top: 120px;
+    left: 80px;
+}
+.paragraph1 p{
+    max-width: 500px;
+    position: relative;
+    left: 550px;
+    bottom: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.paragraph2 p{
+    max-width: 800px;
+    position: relative;
+    left: 550px;
+    bottom: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+.img2 img{
+    max-width: 35%;
+    position: relative;
+    left: 900px;
+    bottom: 100px;
+}
+.paragraph3 p{
+    max-width: 500px;
+    position: relative;
+    left: 350px;
+    bottom: 300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.img3 img{
+    max-width: 35%;
+    position: relative;
+    left: 80px;
+    bottom: 150px;
+}
+.paragraph4 p{
+    max-width: 500px;
+    position: relative;
+    left: 680px;
+    bottom: 400px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
